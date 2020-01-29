@@ -1,0 +1,12 @@
+pytest==3.6.4
+pytest-allure-adaptor
+selenium==3.8.1
+pytest-selenium==1.11.1
+Appium-Python-Client==0.28
+pytest-xdist==1.25.0
+pytest-testrail
+pytest-repeat
+psycopg2-binary
+pytest-rerunfailures==5.0
+pytest-html==1.20.0
+requests
